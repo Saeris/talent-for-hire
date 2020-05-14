@@ -27,4 +27,5 @@ Please add your info to the bottom of the table in an empty row in markdown form
 | Karan Agrawal | Full-Stack Engineer | Mumbai, India | JavaScript, Python, React, Node, Django, React Native | Remote or Onsite | mr.karanagrawal@gmail.com <br> [Portfolio](https://www.karanagrawal.me) <br> [LinkedIn](https://www.linkedin.com/in/karan28598) |
 | Bhavika Patel   | Junior iOS Mobile Developer | Bay Area, CA  | Swift   | Onsite   | Bhavika19p@gmail.com  |
 |         |         |             |           |           |            |
+| Drake Costa | Full Stack Javascript Engineer | Portland, OR | React, Typescript, GraphQL | Remote | [Email](drake@saeris.io) <br> [Resume](https://www.saeris.io/) <br> [GitHub Profile](https://github.com/Saeris) |
 |         |         |             |           |           |            |
